@@ -1,4 +1,4 @@
 #!/bin/bash
 echo $(ifconfig)
 echo $(date)
-echo $(pwd)
+
